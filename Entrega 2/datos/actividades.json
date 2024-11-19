@@ -1,0 +1,13 @@
+[{
+  "descripcion": "Cosas basicas",
+  "objetivo": "Aprender",
+  "tipo": "RE",
+  "contenido": {
+    "recurso": "Hola Soy Stor",
+    "tipo": "Libro"
+  },
+  "nivelDificultad": "0",
+  "duracionEsperada": "0.0",
+  "ID": "",
+  "preRequisitos": []
+}]

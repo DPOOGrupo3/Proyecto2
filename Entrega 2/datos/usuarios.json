@@ -1,0 +1,30 @@
+{
+  "profesores": [
+    {
+      "caminosCreados": ["JCPG1"],
+      "correo": "j.p@mail.com",
+      "contrasena": "SoyJuan123",
+      "nombre": "Juan Carlos Pérez Gómez",
+      "caminosCopiados": []
+    },
+    {
+      "caminosCreados": [],
+      "correo": "p.rm@mail.com",
+      "contrasena": "PedroElMejor1234",
+      "nombre": "Pedro Antonio Rodríguez Martínez",
+      "caminosCopiados": []
+    }
+  ],
+  "estudiantes": [
+    {
+      "correo": "c.s@mail.com",
+      "contrasena": "CarlosA345.",
+      "nombre": "Carlos Sánchez López"
+    },
+    {
+      "correo": "alb.h@mail.com",
+      "contrasena": "Albert0G112",
+      "nombre": "Alberto Herrera Torres"
+    }
+  ]
+}
