@@ -1,6 +1,5 @@
 package modelo;
 
-import modelo.CentralLogica;
 import modelo.LearningPath;
 import modelo.actividad.*;
 import modelo.actividad.examen.*;
